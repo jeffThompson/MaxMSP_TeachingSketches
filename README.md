@@ -1,4 +1,4 @@
-MaxMSP_TeachingSketches
+Max/MSP Teaching Sketches
 =======================
 
 Patches for teaching Max/MSP/Jitter
